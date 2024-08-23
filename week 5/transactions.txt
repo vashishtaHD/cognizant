@@ -1,0 +1,5 @@
+{"account_number": "1234567890", "amount": 1000.0, "type": "deposit"}
+{"account_number": "0987654321", "amount": 500.0, "type": "withdrawal"}
+{"account_number": "5678901234", "amount": 250.0, "type": "deposit"}
+{"account_number": "9012345678", "amount": 750.0, "type": "withdrawal"}
+{"account_number": "4321567890", "amount": 100.0, "type": "deposit"}
